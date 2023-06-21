@@ -1,3 +1,8 @@
 .h{
     background-color: aqua;
+    color: blueviolet;
+    font-size: larger;
+    display: flex;
+    
+    align-content: center;
 }
